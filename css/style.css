@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.navbar {
+    background-color: #e6e6e6;
+}
+
+h3 {
+    font-size: 32px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.quem-somos {
+    background-color: #29c9da;
+}
+
+.nossos-valores {
+    background-color: #e6e6e6;
+}
+
+.parceiros {
+    color: #fff;
+    background-color: #0c1033;
+}
+
+.margin {
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.navbar-brand {
+    padding-right: 16px;
+}
+
+.image-quem-somos {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.image-parceiro {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.col-lg-4 {
+    padding-left: 56px;
+    padding-right: 56px;
+}
